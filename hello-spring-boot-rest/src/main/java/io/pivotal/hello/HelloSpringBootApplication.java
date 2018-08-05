@@ -13,7 +13,7 @@ public class HelloSpringBootApplication {
 	Logger logger = LoggerFactory
 			.getLogger(HelloSpringBootApplication.class);
 
-	public static void main(String[] args) {
+	//public static void main(String[] args) {
 		SpringApplication.run(HelloSpringBootApplication.class, args);
 	}
 
